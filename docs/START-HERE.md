@@ -113,43 +113,43 @@ If you are new to Kairos, read in this order:
 
 ### 1. Orientation
 
-- [Project Overview](/Users/juanvillalba/Documents/kairos/docs/00-project-overview.md)
-- [Founding Narrative](/Users/juanvillalba/Documents/kairos/docs/10-founding-narrative.md)
-- [Founder Memo](/Users/juanvillalba/Documents/kairos/docs/13-founder-memo.md)
+- [Project Overview](00-project-overview.md)
+- [Founding Narrative](10-founding-narrative.md)
+- [Founder Memo](13-founder-memo.md)
 
 ### 2. Core thesis
 
-- [Problem Thesis](/Users/juanvillalba/Documents/kairos/docs/01-problem-thesis.md)
-- [Solution Thesis](/Users/juanvillalba/Documents/kairos/docs/02-solution-thesis.md)
-- [Problem–Solution Fit](/Users/juanvillalba/Documents/kairos/docs/03-problem-solution-fit.md)
-- [Product–Market Fit](/Users/juanvillalba/Documents/kairos/docs/04-product-market-fit.md)
+- [Problem Thesis](01-problem-thesis.md)
+- [Solution Thesis](02-solution-thesis.md)
+- [Problem–Solution Fit](03-problem-solution-fit.md)
+- [Product–Market Fit](04-product-market-fit.md)
 
 ### 3. Product model
 
-- [Guided Flow](/Users/juanvillalba/Documents/kairos/docs/05-guided-flow.md)
-- [Product Architecture](/Users/juanvillalba/Documents/kairos/docs/06-product-architecture.md)
-- [V1 Scope](/Users/juanvillalba/Documents/kairos/docs/07-v1-scope.md)
-- [Commercial Model](/Users/juanvillalba/Documents/kairos/docs/08-commercial-model.md)
-- [Economics Narrative](/Users/juanvillalba/Documents/kairos/docs/12-economics-narrative.md)
+- [Guided Flow](05-guided-flow.md)
+- [Product Architecture](06-product-architecture.md)
+- [V1 Scope](07-v1-scope.md)
+- [Commercial Model](08-commercial-model.md)
+- [Economics Narrative](12-economics-narrative.md)
 
 ### 4. Product requirements and controls
 
-- [Product Requirements Document](/Users/juanvillalba/Documents/kairos/docs/prd/product-requirements-document.md)
-- [Interaction Contract](/Users/juanvillalba/Documents/kairos/docs/prd/interaction-contract.md)
-- [Spiritual Safety & Escalation Policy](/Users/juanvillalba/Documents/kairos/docs/prd/spiritual-safety-and-escalation-policy.md)
-- [Phase Prompt Spec](/Users/juanvillalba/Documents/kairos/docs/prd/phase-prompt-spec.md)
-- [Implementation Blueprint](/Users/juanvillalba/Documents/kairos/docs/prd/implementation-blueprint.md)
+- [Product Requirements Document](prd/product-requirements-document.md)
+- [Interaction Contract](prd/interaction-contract.md)
+- [Spiritual Safety & Escalation Policy](prd/spiritual-safety-and-escalation-policy.md)
+- [Phase Prompt Spec](prd/phase-prompt-spec.md)
+- [Implementation Blueprint](prd/implementation-blueprint.md)
 
 ### 5. Communication layer
 
-- [Brand Narrative](/Users/juanvillalba/Documents/kairos/docs/11-brand-narrative.md)
-- [Landing Messaging Framework](/Users/juanvillalba/Documents/kairos/docs/14-landing-messaging-framework.md)
+- [Brand Narrative](11-brand-narrative.md)
+- [Landing Messaging Framework](14-landing-messaging-framework.md)
 
 ### 6. Execution layer
 
-- [V1 Build Plan](/Users/juanvillalba/Documents/kairos/docs/prd/v1-build-plan.md)
-- [Execution Board Spec](/Users/juanvillalba/Documents/kairos/docs/prd/execution-board-spec.md)
-- [Open Questions](/Users/juanvillalba/Documents/kairos/docs/09-open-questions.md)
+- [V1 Build Plan](prd/v1-build-plan.md)
+- [Execution Board Spec](prd/execution-board-spec.md)
+- [Open Questions](09-open-questions.md)
 
 ## How to use this repository as a team
 
@@ -174,7 +174,7 @@ At this moment, `docs/` is the source of truth.
 
 The prototype code in:
 
-- [Prototype V1 UI](/Users/juanvillalba/Documents/kairos/prototypes/v1-ui)
+- [Prototype V1 UI](../prototypes/v1-ui)
 
 is secondary.
 
