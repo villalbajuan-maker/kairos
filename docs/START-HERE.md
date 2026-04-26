@@ -67,10 +67,14 @@ The repository already contains strong working positions on:
 - V1 scope
 - business model and economics
 - brand narrative
+- landing messaging structure
 - spiritual safety and escalation
 - interaction contract
 - phase prompting logic
 - implementation blueprint
+- V1 build sequencing
+- execution board structure
+- repository visuals and reading flow
 
 In other words:
 
