@@ -65,6 +65,7 @@ Its job is to render and support the process.
 - handle pauses and returns
 - show paywall and code access moments
 - show completion and follow-through states
+- preserve the user’s selected language across the session
 
 ### V1 expectation
 
@@ -117,6 +118,13 @@ Each session should know:
 - `paused`
 - `escalated`
 - `complete`
+
+### Language state
+
+Each session should also preserve a language context, initially supporting:
+
+- English
+- Spanish
 
 ## 3. Discernment intelligence layer
 
@@ -214,6 +222,7 @@ Key fields:
 - `id`
 - `name` or anonymous identifier
 - `contact_channel`
+- `preferred_language`
 - `created_at`
 - `source`
 
@@ -228,6 +237,7 @@ Key fields:
 - `status`
 - `current_phase`
 - `access_state`
+- `language`
 - `created_at`
 - `updated_at`
 - `completed_at`
@@ -490,6 +500,8 @@ The system should call AI through narrowly-scoped functions such as:
 - `suggestReflectionOptions()`
 - `classifyClarityState()`
 - `extractCommitment()`
+
+Prompt orchestration should also receive language context so that the same discernment logic can be expressed faithfully in either supported language.
 
 This is better than one chat endpoint that tries to do everything.
 

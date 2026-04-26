@@ -20,6 +20,13 @@ Its purpose is to help a person move from ambiguity to a concrete, obedient, exe
 - reduction of ambiguity
 - explicit decision and action
 
+Kairos is also conceived as a bilingual product from its foundation.
+
+Its primary operating languages are:
+
+- English
+- Spanish
+
 ## What Kairos is not
 
 Kairos does not replace:

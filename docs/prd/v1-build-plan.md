@@ -39,6 +39,8 @@ V1 is not trying to fully solve:
 - growth automation
 - polished brand marketing systems
 
+However, V1 should not be treated as monolingual. English and Spanish should be considered part of the intended product foundation, even if the first pilot emphasis is operationally narrower.
+
 ## V1 release principle
 
 V1 should be:

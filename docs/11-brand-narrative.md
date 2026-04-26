@@ -44,6 +44,8 @@ Kairos is not a devotional app, a generic AI assistant, or a passive content pro
 
 Kairos is a decision-guidance system for people who want to act with clarity before God.
 
+Kairos is also intended to serve bilingual faith contexts from the beginning, especially English-speaking and Spanish-speaking users.
+
 ## Value narrative
 
 The value of Kairos is not in giving more information.

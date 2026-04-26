@@ -133,6 +133,7 @@ If you are new to Kairos, read in this order:
 ### 6. Execution layer
 
 - [V1 Build Plan](prd/v1-build-plan.md)
+- [V1 Pilot-Ready Spec](prd/v1-pilot-ready-spec.md)
 - [Execution Board Spec](prd/execution-board-spec.md)
 - [Open Questions](09-open-questions.md)
 

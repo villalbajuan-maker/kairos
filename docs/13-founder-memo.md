@@ -61,6 +61,15 @@ The technology serves the process.
 
 It does not pretend to become the source of truth.
 
+From a product standpoint, Kairos should be treated as bilingual by design:
+
+- English
+- Spanish
+
+This is not a later localization layer.
+
+It is part of the intended shape of the product.
+
 ## Why this can work
 
 This project works if one central assumption is true:

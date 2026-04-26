@@ -87,6 +87,17 @@ Kairos prompts may need to produce:
 
 The output should match the phase.
 
+### 7. The prompt system must be language-aware
+
+Kairos should preserve the user’s active language whenever possible.
+
+In V1 and beyond, the prompting system should support:
+
+- English
+- Spanish
+
+without changing the underlying phase logic.
+
 ## Shared prompt input structure
 
 Each phase prompt should receive enough context to behave consistently.

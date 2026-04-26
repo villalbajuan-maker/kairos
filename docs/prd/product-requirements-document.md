@@ -20,6 +20,11 @@ Kairos is being positioned as a guided decision process.
 
 Kairos helps a person move from ambiguity to a concrete, obedient, executable decision through a structured process that includes reflection, prayer, scriptural engagement, reduction of ambiguity, commitment, and follow-through.
 
+Kairos should be designed from the beginning to support two primary operating languages:
+
+- English
+- Spanish
+
 ## Executive brief
 
 Kairos is being conceived as a decision-guidance product for believers who already value prayer, Scripture, and obedience but struggle to move from internal ambiguity to concrete action.
@@ -233,6 +238,7 @@ The core interaction pattern should always communicate:
 3. The experience must remain usable on mobile-first surfaces.
 4. The system must avoid unnecessary cognitive overload.
 5. The product must preserve a strong sense of seriousness and trust.
+6. The product must support bilingual interaction in English and Spanish without reducing process integrity.
 
 ## Success metrics
 
