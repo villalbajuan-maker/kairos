@@ -18,27 +18,6 @@ At this stage, it is the structured thinking system behind the project.
 
 ![Kairos Master Map](assets/kairos-master-map.png)
 
-```mermaid
-flowchart TD
-    A["Foundational Identity<br/>Why Kairos exists"] --> B["Problem Thesis<br/>People need disciplined discernment"]
-    A --> C["Category Thesis<br/>Guided spiritual discernment"]
-    B --> D["Solution Thesis<br/>Structured process toward decision"]
-    C --> D
-    D --> E["Guided Flow<br/>6 phases of discernment"]
-    D --> F["Product Architecture<br/>Process engine, interaction, safety"]
-    D --> G["Commercial Model<br/>One decision as unit of value"]
-    E --> H["Interaction Contract<br/>How Kairos behaves"]
-    E --> I["Phase Prompt Spec<br/>How phases are operationalized"]
-    F --> J["Implementation Blueprint<br/>How the system is built"]
-    H --> J
-    I --> J
-    J --> K["V1 Build Plan<br/>How V1 gets built"]
-    K --> L["Execution Board Spec<br/>How team work is organized"]
-    F --> M["Spiritual Safety & Escalation<br/>When Kairos must slow, stop, or refer"]
-    G --> N["Economics Narrative<br/>How value becomes revenue"]
-    A --> O["Brand & Landing Narrative<br/>How Kairos is communicated"]
-```
-
 ## What Kairos is trying to do
 
 Kairos exists to help a person move from:

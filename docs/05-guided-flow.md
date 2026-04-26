@@ -6,26 +6,6 @@ This document captures the six-phase flow currently defined for Kairos at the co
 
 ![Kairos Full Discernment Flow](assets/kairos-discernment-flow.png)
 
-```mermaid
-flowchart TD
-    A["User enters with ambiguity"] --> B["Phase 1<br/>Define the decision"]
-    B --> C{"Decision clear?"}
-    C -- No --> B
-    C -- Yes --> P["Paywall / Code Access"]
-    P --> D["Phase 2<br/>Separate feelings, desires, fears"]
-    D --> E["Phase 3<br/>Seek God intentionally"]
-    E --> PA["Pause / Prayer / Reflection / Return"]
-    PA --> F["Phase 4<br/>Collect and reduce ambiguity"]
-    F --> G{"Clarity sufficient?"}
-    G -- No --> E
-    G -- Yes --> H["Phase 5<br/>Decide and commit"]
-    H --> I["Phase 6<br/>Execute and sustain"]
-    I --> J["Session complete"]
-    E -. Safety concern .-> X["Escalation path"]
-    F -. Safety concern .-> X
-    H -. Safety concern .-> X
-```
-
 ## Phase 1 — Define the decision
 
 ### Objective

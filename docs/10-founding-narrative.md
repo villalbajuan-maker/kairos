@@ -136,30 +136,6 @@ Kairos depends on a very special boundary.
 
 ![Kairos Boundary Map](assets/kairos-boundary-map.png)
 
-```mermaid
-flowchart LR
-    T["Technology"] --> T1["Structures the process"]
-    T --> T2["Guides the flow"]
-    T --> T3["Reduces ambiguity"]
-    T --> T4["Supports interaction and memory"]
-
-    U["User"] --> U1["Brings the real decision"]
-    U --> U2["Reflects, prays, chooses, acts"]
-    U --> U3["Owns interpretation and obedience"]
-
-    S["Scripture / Prayer / Holy Spirit"] --> S1["Provide truth, conviction, direction"]
-    S --> S2["Remain the primary spiritual source"]
-
-    C["Pastors / Leaders / Community"] --> C1["Provide wisdom, accompaniment, correction"]
-    C --> C2["Carry authority and human discernment"]
-
-    T -. cannot replace .-> S
-    T -. cannot replace .-> C
-    T --> U
-    U --> S
-    U --> C
-```
-
 Technology is capable of extraordinary things.
 
 Technology can help with:
