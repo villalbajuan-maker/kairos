@@ -134,6 +134,8 @@ Kairos depends on a very special boundary.
 
 ## Boundary map
 
+![Kairos Boundary Map](assets/kairos-boundary-map.png)
+
 ```mermaid
 flowchart LR
     T["Technology"] --> T1["Structures the process"]

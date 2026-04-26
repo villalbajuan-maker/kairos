@@ -4,6 +4,8 @@ This document captures the six-phase flow currently defined for Kairos at the co
 
 ## Visual flow
 
+![Kairos Full Discernment Flow](assets/kairos-discernment-flow.png)
+
 ```mermaid
 flowchart TD
     A["User enters with ambiguity"] --> B["Phase 1<br/>Define the decision"]

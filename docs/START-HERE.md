@@ -16,6 +16,8 @@ At this stage, it is the structured thinking system behind the project.
 
 ## Visual map
 
+![Kairos Master Map](assets/kairos-master-map.png)
+
 ```mermaid
 flowchart TD
     A["Foundational Identity<br/>Why Kairos exists"] --> B["Problem Thesis<br/>People need disciplined discernment"]

@@ -150,6 +150,8 @@ It follows directly from the multiplication of value.
 
 ## Snapshot scenarios
 
+![Kairos V1 Funnel](assets/kairos-v1-funnel.png)
+
 These are not promises.
 
 They are simple operating snapshots to help founders understand the shape of the business.

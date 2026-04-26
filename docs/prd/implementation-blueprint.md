@@ -39,6 +39,8 @@ not by free chat alone.
 
 ## System overview
 
+![Kairos System Architecture](../assets/kairos-system-architecture.png)
+
 At a high level, Kairos consists of five interacting layers:
 
 1. Experience layer

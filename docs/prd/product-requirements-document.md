@@ -171,6 +171,8 @@ It must carry:
 
 ## Experience flow
 
+![Kairos User Journey](../assets/kairos-user-journey.png)
+
 ### Phase 1 — Define the decision
 
 The user arrives with ambiguity.

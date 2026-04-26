@@ -2,6 +2,8 @@
 
 Kairos is a project about guided spiritual discernment for important decisions.
 
+![Kairos Repository Map](docs/assets/kairos-repository-map.png)
+
 Start here:
 
 - [START HERE](docs/START-HERE.md)
