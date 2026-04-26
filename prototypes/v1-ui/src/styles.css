@@ -1,0 +1,275 @@
+:root {
+  font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  color: #f4efe6;
+  background: #171512;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  background:
+    radial-gradient(circle at top, rgba(198, 140, 61, 0.18), transparent 30%),
+    linear-gradient(160deg, #181410 0%, #231d17 40%, #14110e 100%);
+}
+
+button,
+input,
+textarea {
+  font: inherit;
+}
+
+.app-shell {
+  min-height: 100vh;
+  display: grid;
+  grid-template-columns: 320px minmax(0, 1fr);
+}
+
+.side-panel {
+  padding: 32px 24px;
+  border-right: 1px solid rgba(255, 255, 255, 0.08);
+  background: rgba(10, 10, 10, 0.18);
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.main-panel {
+  padding: 32px;
+}
+
+.eyebrow {
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  font-size: 0.72rem;
+  color: #d6b783;
+  margin: 0 0 8px;
+}
+
+h1,
+h2 {
+  margin: 0;
+  line-height: 1.05;
+}
+
+h1 {
+  font-size: 2.3rem;
+}
+
+h2 {
+  font-size: 1.6rem;
+}
+
+.lede {
+  color: rgba(244, 239, 230, 0.8);
+  margin: 16px 0 0;
+}
+
+.summary-card {
+  padding: 18px;
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.summary-card.compact {
+  margin-top: auto;
+}
+
+.summary-label {
+  margin: 0 0 8px;
+  font-size: 0.82rem;
+  color: rgba(244, 239, 230, 0.64);
+}
+
+.summary-value {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.summary-note,
+.decision-preview {
+  color: rgba(244, 239, 230, 0.8);
+}
+
+.session-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+.phase-chip {
+  padding: 10px 14px;
+  border-radius: 999px;
+  background: rgba(214, 183, 131, 0.14);
+  color: #f3d7aa;
+  font-size: 0.88rem;
+}
+
+.conversation-card {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 22px;
+  border-radius: 28px;
+  background: rgba(8, 8, 8, 0.28);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(18px);
+}
+
+.message-list {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.message {
+  max-width: 80%;
+  padding: 16px 18px;
+  border-radius: 20px;
+  white-space: pre-wrap;
+}
+
+.message p {
+  margin: 0;
+}
+
+.message.assistant {
+  align-self: flex-start;
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.message.user {
+  align-self: flex-end;
+  background: rgba(198, 140, 61, 0.18);
+}
+
+.action-panel {
+  margin-top: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+textarea,
+input {
+  width: 100%;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0.04);
+  color: #f4efe6;
+  border-radius: 18px;
+  padding: 16px;
+  outline: none;
+}
+
+textarea {
+  resize: vertical;
+  min-height: 120px;
+}
+
+.primary-button,
+.secondary-button,
+.option-button {
+  border: none;
+  border-radius: 18px;
+  padding: 14px 18px;
+  cursor: pointer;
+  transition: transform 120ms ease, opacity 120ms ease;
+}
+
+.primary-button:hover,
+.secondary-button:hover,
+.option-button:hover {
+  transform: translateY(-1px);
+}
+
+.primary-button {
+  background: linear-gradient(135deg, #f1bf6b, #c97f30);
+  color: #23160a;
+  font-weight: 700;
+}
+
+.secondary-button {
+  background: rgba(255, 255, 255, 0.08);
+  color: #f4efe6;
+}
+
+.option-button {
+  background: rgba(255, 255, 255, 0.06);
+  color: #f4efe6;
+  text-align: left;
+}
+
+.option-button span {
+  display: block;
+  font-weight: 600;
+}
+
+.option-button small {
+  display: block;
+  margin-top: 4px;
+  color: rgba(244, 239, 230, 0.64);
+}
+
+.paywall-card {
+  padding: 20px;
+  border-radius: 24px;
+  background: rgba(201, 127, 48, 0.09);
+  border: 1px solid rgba(241, 191, 107, 0.22);
+}
+
+.paywall-title {
+  font-size: 1.2rem;
+  margin: 0 0 8px;
+}
+
+.paywall-copy {
+  margin: 0 0 16px;
+  color: rgba(244, 239, 230, 0.78);
+}
+
+.paywall-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.code-row {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 10px;
+}
+
+.error-copy {
+  margin: 0;
+  color: #ffb4b4;
+}
+
+@media (max-width: 920px) {
+  .app-shell {
+    grid-template-columns: 1fr;
+  }
+
+  .side-panel {
+    border-right: none;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  }
+
+  .main-panel {
+    padding: 20px;
+  }
+
+  .conversation-card {
+    padding: 16px;
+  }
+
+  .message {
+    max-width: 100%;
+  }
+}
