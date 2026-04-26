@@ -95,3 +95,9 @@ to:
 - clarified discernment
 - concrete action
 - increased ability to obey with steadiness
+
+## Continue reading
+
+- [Back to START HERE](START-HERE.md)
+- Previous: [Problem Thesis](01-problem-thesis.md)
+- Next: [Problem–Solution Fit](03-problem-solution-fit.md)

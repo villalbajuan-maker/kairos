@@ -575,3 +575,9 @@ Any Kairos interaction can be evaluated against these questions:
 7. Did it protect the difference between feeling and direction?
 
 If the answer to several of these is no, the interaction is out of contract.
+
+## Continue reading
+
+- [Back to START HERE](../START-HERE.md)
+- Previous: [Product Requirements Document](product-requirements-document.md)
+- Next: [Spiritual Safety & Escalation Policy](spiritual-safety-and-escalation-policy.md)

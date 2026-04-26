@@ -203,3 +203,9 @@ It can become a business because the value is real.
 It can become a category because the combination is rare.
 
 And it is worth building because helping people move from confusion to faithful action is both a meaningful service and a strong foundation for enterprise.
+
+## Continue reading
+
+- [Back to START HERE](START-HERE.md)
+- Previous: [Founding Narrative](10-founding-narrative.md)
+- Next: [Problem Thesis](01-problem-thesis.md)

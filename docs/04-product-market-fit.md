@@ -77,3 +77,9 @@ It is recurrence:
 - the user comes back with another decision
 - the user recommends the experience to others
 - the user or a leader wants multiple codes for a community
+
+## Continue reading
+
+- [Back to START HERE](START-HERE.md)
+- Previous: [Problem–Solution Fit](03-problem-solution-fit.md)
+- Next: [Guided Flow](05-guided-flow.md)

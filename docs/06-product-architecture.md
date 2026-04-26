@@ -107,3 +107,9 @@ Current thesis:
 - the user can either pay or enter a code
 
 This placement is intentional because the user has already felt the first moment of value but has not yet received the full process.
+
+## Continue reading
+
+- [Back to START HERE](START-HERE.md)
+- Previous: [Guided Flow](05-guided-flow.md)
+- Next: [V1 Scope](07-v1-scope.md)

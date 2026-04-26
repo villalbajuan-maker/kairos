@@ -60,3 +60,9 @@ The fit is weak for:
 Kairos appears to fit a real and intense problem:
 
 not lack of spiritual source, but lack of disciplined discernment leading to obedience.
+
+## Continue reading
+
+- [Back to START HERE](START-HERE.md)
+- Previous: [Solution Thesis](02-solution-thesis.md)
+- Next: [Product–Market Fit](04-product-market-fit.md)

@@ -125,3 +125,9 @@ A decision is not complete until it becomes a real next step.
 ### Pitch sentence
 
 Kairos is a guided discernment system that helps believers turn what they believe God is showing them into clear, concrete decisions.
+
+## Continue reading
+
+- [Back to START HERE](START-HERE.md)
+- Previous: [Implementation Blueprint](prd/implementation-blueprint.md)
+- Next: [Landing Messaging Framework](14-landing-messaging-framework.md)

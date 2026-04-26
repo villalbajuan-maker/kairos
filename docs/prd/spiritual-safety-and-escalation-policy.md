@@ -370,3 +370,9 @@ It must shape:
 Kairos is safest and strongest when it remains humble about its role.
 
 It should help people discern faithfully, but it must never pretend that guided software is the only voice they need in situations where safety, covenant, authority, trauma, or crisis are involved.
+
+## Continue reading
+
+- [Back to START HERE](../START-HERE.md)
+- Previous: [Interaction Contract](interaction-contract.md)
+- Next: [Phase Prompt Spec](phase-prompt-spec.md)

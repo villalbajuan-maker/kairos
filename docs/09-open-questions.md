@@ -37,3 +37,8 @@ This project already has meaningful foundations, but several decisions should re
 These are not blockers to beginning.
 
 They are areas to validate in sequence, after the foundations remain clear and the first real usage begins.
+
+## Continue reading
+
+- [Back to START HERE](START-HERE.md)
+- Previous: [Execution Board Spec](prd/execution-board-spec.md)

@@ -417,3 +417,9 @@ The success of V1 will not come from how many features it has.
 It will come from whether the first real users can say:
 
 “This helped me move from confusion to a clear next step.”
+
+## Continue reading
+
+- [Back to START HERE](../START-HERE.md)
+- Previous: [Landing Messaging Framework](../14-landing-messaging-framework.md)
+- Next: [Execution Board Spec](execution-board-spec.md)

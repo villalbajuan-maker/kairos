@@ -56,3 +56,8 @@ The problem is not that God does not speak.
 The problem is that many people do not have a clear, disciplined process to receive, order, discern, confirm, and obey the direction they already believe God is giving them.
 
 Kairos exists to address that gap.
+
+## Continue reading
+
+- [Back to START HERE](START-HERE.md)
+- Next: [Founding Narrative](10-founding-narrative.md)

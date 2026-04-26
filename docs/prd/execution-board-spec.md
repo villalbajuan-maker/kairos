@@ -466,3 +466,9 @@ Let the board grow with real execution.
 The purpose of the execution board is not to make Kairos feel busy.
 
 It is to make Kairos buildable in a disciplined, traceable, and team-operable way.
+
+## Continue reading
+
+- [Back to START HERE](../START-HERE.md)
+- Previous: [V1 Build Plan](v1-build-plan.md)
+- Next: [Open Questions](../09-open-questions.md)

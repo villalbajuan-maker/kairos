@@ -66,3 +66,9 @@ V1 should be placed in the hands of:
 - people already facing real decisions
 
 The goal is real-world testing, not abstract approval.
+
+## Continue reading
+
+- [Back to START HERE](START-HERE.md)
+- Previous: [Product Architecture](06-product-architecture.md)
+- Next: [Commercial Model](08-commercial-model.md)

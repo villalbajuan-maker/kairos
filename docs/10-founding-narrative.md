@@ -347,3 +347,9 @@ It exists because helping people make better decisions is a real form of service
 And if that service reaches thousands of people and becomes thousands of decisions and thousands of dollars, that does not reduce its meaning.
 
 It proves its value.
+
+## Continue reading
+
+- [Back to START HERE](START-HERE.md)
+- Previous: [Project Overview](00-project-overview.md)
+- Next: [Founder Memo](13-founder-memo.md)

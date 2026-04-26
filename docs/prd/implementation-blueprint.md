@@ -632,3 +632,9 @@ This blueprint is successful if it enables the team to build a first version tha
 Kairos should be implemented as a disciplined decision system with AI-assisted interaction, not as a loose conversation product.
 
 If that principle remains intact, the implementation can evolve without losing the essence of the project.
+
+## Continue reading
+
+- [Back to START HERE](../START-HERE.md)
+- Previous: [Phase Prompt Spec](phase-prompt-spec.md)
+- Next: [Brand Narrative](../11-brand-narrative.md)

@@ -490,3 +490,9 @@ This document does not define technical orchestration yet, but it strongly sugge
 The purpose of prompt design in Kairos is not expressive AI performance.
 
 It is reliable movement from ambiguity toward clarity, and from clarity toward obedient action, while preserving spiritual humility and safety.
+
+## Continue reading
+
+- [Back to START HERE](../START-HERE.md)
+- Previous: [Spiritual Safety & Escalation Policy](spiritual-safety-and-escalation-policy.md)
+- Next: [Implementation Blueprint](implementation-blueprint.md)

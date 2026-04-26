@@ -70,3 +70,9 @@ When the discernment process remains disordered, the result is often:
 - weakened confidence in one’s own ability to obey
 
 Kairos treats this as a serious operational problem inside spiritual life.
+
+## Continue reading
+
+- [Back to START HERE](START-HERE.md)
+- Previous: [Founder Memo](13-founder-memo.md)
+- Next: [Solution Thesis](02-solution-thesis.md)

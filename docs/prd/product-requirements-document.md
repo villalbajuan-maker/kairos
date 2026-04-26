@@ -323,3 +323,9 @@ The immediate next step is to continue refining the documentation until the proj
 3. Define the spiritual safety rules and escalation boundaries.
 4. Define the first implementation spec for V1.
 5. Only then resume product implementation in depth.
+
+## Continue reading
+
+- [Back to START HERE](../START-HERE.md)
+- Previous: [Economics Narrative](../12-economics-narrative.md)
+- Next: [Interaction Contract](interaction-contract.md)

@@ -147,3 +147,9 @@ Ensure that the decision enters reality and is not undone by later discomfort.
 ### Success condition
 
 The user not only decides, but acts and remains steady.
+
+## Continue reading
+
+- [Back to START HERE](START-HERE.md)
+- Previous: [Product–Market Fit](04-product-market-fit.md)
+- Next: [Product Architecture](06-product-architecture.md)

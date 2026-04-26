@@ -340,3 +340,9 @@ The landing should not try to prove everything.
 Its job is to create enough trust, recognition, and clarity that the user says:
 
 “Yes, this is for the decision I am carrying right now.”
+
+## Continue reading
+
+- [Back to START HERE](START-HERE.md)
+- Previous: [Brand Narrative](11-brand-narrative.md)
+- Next: [V1 Build Plan](prd/v1-build-plan.md)
