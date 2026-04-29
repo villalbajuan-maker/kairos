@@ -54,6 +54,8 @@ That means:
 
 This is the phase where foundations are strong enough to support execution.
 
+It is also the phase where real implementation learning is beginning to shape the project.
+
 ## What is already resolved
 
 The repository already contains strong working positions on:
@@ -75,10 +77,14 @@ The repository already contains strong working positions on:
 - V1 build sequencing
 - execution board structure
 - repository visuals and reading flow
+- Supabase schema, ingestion, and retrieval foundations
+- bilingual Scripture infrastructure for English and Spanish
 
 In other words:
 
 the project already knows what it is, why it matters, how it should behave, how it should protect users, and how it can begin to be built.
+
+It also has an emerging record of what implementation is teaching in practice.
 
 ## What is not resolved yet
 
@@ -124,11 +130,15 @@ If you are new to Kairos, read in this order:
 - [Spiritual Safety & Escalation Policy](prd/spiritual-safety-and-escalation-policy.md)
 - [Phase Prompt Spec](prd/phase-prompt-spec.md)
 - [Implementation Blueprint](prd/implementation-blueprint.md)
+- [Supabase Schema V1](prd/supabase-schema-v1.md)
+- [Bible Ingestion Model](prd/bible-ingestion-model.md)
+- [Bible Retrieval Layer](prd/bible-retrieval-layer.md)
 
 ### 5. Communication layer
 
 - [Brand Narrative](11-brand-narrative.md)
 - [Landing Messaging Framework](14-landing-messaging-framework.md)
+- [Progress, Learnings, and Challenges](15-progress-learnings-and-challenges.md)
 
 ### 6. Execution layer
 
@@ -175,6 +185,8 @@ The next phase of work should likely focus on one of these tracks:
 3. validation planning with real users and communities
 
 The project has enough conceptual strength to begin building seriously.
+
+It also now has enough operational evidence to begin learning from real infrastructure and real product behavior.
 
 The main risk now is not lack of ideas.
 
